@@ -1,4 +1,5 @@
 // import logo from './logo.svg';
+import './App.css'
 import React from 'react'
 import avatarshare from "./icons-img/_Avatar share button.png"
 import profilepic from "./icons-img/profile__img.png"
